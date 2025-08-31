@@ -19,7 +19,7 @@ let make = () => {
     </Button>
     <p className="my-6 text-center">
       {React.string("Edit ")}
-      <code className="bg-stone-100 font-mono rounded"> {React.string("src/App.res")} </code>
+      <code className="font-mono rounded"> {React.string("src/App.res")} </code>
       {React.string(" and save to test Fast Refresh.")}
     </p>
     <p className="text-center font-thin text-stone-400">
