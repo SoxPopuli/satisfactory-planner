@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Bauxite",
+    "icon": "Bauxite.webp"
+  },
+  {
+    "name": "Caterium Ore",
+    "icon": "Caterium_Ore.webp"
+  },
+  {
+    "name": "Coal",
+    "icon": "Coal.webp"
+  },
+  {
+    "name": "Copper Ore",
+    "icon": "Copper_Ore.webp"
+  },
+  {
+    "name": "Crude Oil",
+    "icon": "Crude_Oil.webp"
+  },
+  {
+    "name": "Iron Ore",
+    "icon": "Iron_Ore.webp"
+  },
+  {
+    "name": "Limestone",
+    "icon": "Limestone.webp"
+  },
+  {
+    "name": "Nitrogen Gas",
+    "icon": "Nitrogen_Gas.webp"
+  },
+  {
+    "name": "Raw Quartz",
+    "icon": "Raw_Quartz.webp"
+  },
+  {
+    "name": "SAM",
+    "icon": "SAM.webp"
+  },
+  {
+    "name": "Sulfur",
+    "icon": "Sulfur.webp"
+  },
+  {
+    "name": "Uranium",
+    "icon": "Uranium.webp"
+  },
+  {
+    "name": "Water",
+    "icon": "Water.webp"
+  }
+]
