@@ -6,8 +6,19 @@ external vite: string = "default"
 
 @react.component
 let make = () => {
-  let ores = Items.ores->Array.map(x => <Item item={(x :> Items.item)} />)
+  let ores = Items.Ores.all
 
-  <div className="flex flex-wrap"
-  > {ores->React.array} </div>
+  let items =
+    ores
+    ->Array.map(x => <Item key={x.name} item=x />)
+    ->React.array
+
+  <div
+    style={
+      display: "flex",
+      flexDirection: "row",
+      flexWrap: "wrap",
+    }>
+    {items}
+  </div>
 }

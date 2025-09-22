@@ -18,7 +18,8 @@
     "@rescript/react"
   ],
   "bsc-flags": [
-    "-open RescriptCore"
+    "-open RescriptCore",
+    "-w -30"
   ],
   "jsx": {
     "version": 4
